@@ -63,8 +63,8 @@ namespace FreeTextBoxKeyGen
             }
 
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("MyTextBox License");
-            sb.AppendLine("[qeUPffrT7QkE0JgbUKQPxMiBFyyieNJhQXflRmfRui0=]");
+            sb.AppendLine("FreeTextBox License");
+            sb.AppendLine("[qeUPffrT7QkE0JgbUKQPxMiBFyyieNJh]");
             sb.Append("[");
             sb.Append(CipherText);
             sb.Append("]");
